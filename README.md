@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa246&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa246" /> </p>
 
-- 🔭 I’m currently working on **DDoS Attack in SDN Network**
+- 🔭 I’m currently working on **Mitigating DDoS Attack in SDN Network using Machine Learning**
 
 - 📫 How to reach me **shaikhhafsa25@gmail.com**
 
